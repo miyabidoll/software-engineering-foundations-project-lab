@@ -2,13 +2,16 @@
 
 ## Project Name
 
-(To be defined)
+Minimercado
 
 ## Team Members
 
-* Name 1
-* Name 2
-* Name 3
+* Fernanda
+* Daiane
+* Juan
+* Lara
+* Paula
+* Pedro Leo
 
 ## Repository Structure
 
