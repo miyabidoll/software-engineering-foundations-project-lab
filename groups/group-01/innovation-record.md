@@ -6,7 +6,8 @@ Sistema de compra seguro.
 
 ## Nome do projeto.
 
-Sistema MiniMercadinho
+Sistema MiniMercado.
+
 ---
 
 ## Problema
