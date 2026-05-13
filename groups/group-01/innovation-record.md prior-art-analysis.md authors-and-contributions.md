@@ -2,10 +2,12 @@
 
 | Nome | Função | Contribuições |
 |---|---|---|
-| Aluno 1 | Backend | API e banco |
-| Aluno 2 | Frontend | Interface |
-| Aluno 3 | Documentação | Requisitos |
-
+| Pedro Lép | Backend | API e banco |
+| Ruan | Frontend | Interface  |
+| Lara | Documentação | Requisitos |
+| Fernanda | Database | criação do banco de dados|
+| Paula | Desingner | identidade visual|
+| Daiane | Testes | correção de bugs|
 ---
 
 ## Observações
